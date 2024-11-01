@@ -1,18 +1,18 @@
 /*
 
-# Owner ? : Marisel
+# Owner ? : DON
 !- do not delete this credit
 
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['254740007567']
-global.ownMain = '254740007567'
-global.NamaOwner = 'Marisel' //
+global.owner = ['263775614627']
+global.ownMain = '263775614627'
+global.NamaOwner = 'DON' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = 'Bugatti' //
-global.author = 'Marisel' //
+global.author = 'DN' //
 global.packname = 'Bugatti' //
 global.autoviewstatus = process.env.autoviewstatus || "TRUE"
 global.welcome = false
