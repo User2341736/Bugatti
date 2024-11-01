@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://telegra.ph/file/ec469447d91f56a74f189.jpg">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/ec469447d91f56a74f189.jpg">
-    <h1 align="center"> 𝐁𝐔𝐆𝐀𝐓𝐓𝐈 𝐁𝐘 𝐌𝐀𝐑𝐈𝐒𝐄𝐋</h1>
+    <h1 align="center"> 𝐁𝐔𝐆𝐀𝐓𝐓𝐈 𝐁𝐘 DON</h1>
   </a>
 </p>  
   
@@ -13,7 +13,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254740007567"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/betingrich"><img title="Author" src="https://img.shields.io/badge/betingrich-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263775614627"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
 <a href="https://github.com/betingrich?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?label=Followers&style=social"></a>
